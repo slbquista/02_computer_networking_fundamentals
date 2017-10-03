@@ -118,3 +118,5 @@ begin
 		dbms_output.put_line(generate_mac_address());
 	end loop;
 end;
+
+-- test
